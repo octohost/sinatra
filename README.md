@@ -1,7 +1,7 @@
 sinatra
 =======
 
-Basic Sinatra container for octohost.
+Basic [Sinatra](http://www.sinatrarb.com/) container for octohost.
 
 Clone this repo and use Sinatra to develop your website.
 
