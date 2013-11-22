@@ -1,4 +1,4 @@
-FROM octohost/ruby-1.9.3p194
+FROM octohost/ruby-1.9.3p484
 
 ADD . /srv/www
 RUN cd /srv/www; bundle install
