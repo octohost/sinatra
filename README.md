@@ -14,7 +14,5 @@ git remote add octohost git@ip.address.here:sinatra.git
 git push octohost master
 ```
 
-Example site \(usually\) at [http://sinatra.octohost.io](http://sinatra.octohost.io)
-
 
 NOTE: Adapted from [luisbebop/docker-sinatra-hello-world](https://github.com/luisbebop/docker-sinatra-hello-world)
